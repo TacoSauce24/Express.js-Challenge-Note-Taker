@@ -2,11 +2,11 @@
     { 
     "title": "Test Title",
     "text": "Test text",
-    "uid": "123"
+    "id": "123"
     },
     {
-        "title": "TEst2",
-        "text": "This is a test\n",
-        "uid": "ee55"
+        "title": "Add Readme",
+        "text": "Don't forget to add a readme to your homework!",
+        "id": "7a3a"
     }
 ]
